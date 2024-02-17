@@ -1,0 +1,24 @@
+{
+  "ar": [
+    "instructions_tr"
+  ],
+
+  "bn": [
+    "okay_tr"
+  ],
+
+  "hi": [
+    "instructions_tr",
+    "mode_0_title_1_tr",
+    "mode_1_title_1_tr",
+    "mode_1_step2_tr",
+    "mode_1_step3_tr",
+    "mode_0_step2_tr",
+    "mode_0_step3_tr"
+  ],
+
+  "id": [
+    "sujood_tr",
+    "okay_tr"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313502846172",
+    "project_id": "rakat-tracker",
+    "storage_bucket": "rakat-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313502846172:android:8a74aeb88e5709e06f7819",
+        "android_client_info": {
+          "package_name": "com.fj.salah.rakaat.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313502846172-4d0kn81o4ih5lsc3670aqmeqb8afn284.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fj.salah.rakaat.tracker",
+            "certificate_hash": "91cb9481135be7210e8f3dde767e3a8a314caa1a"
+          }
+        },
+        {
+          "client_id": "313502846172-qdaeiq8gqr3vmkvko57b7atci3vq0ec2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fj.salah.rakaat.tracker",
+            "certificate_hash": "a78e466356fcaceae409463228f738a63c4539e0"
+          }
+        },
+        {
+          "client_id": "313502846172-4p4v0l14fqn3kkgshbtf03a9ta8sko00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAPwM5xFDEhjksZgxPV_AlIIcZUo71DF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313502846172-4p4v0l14fqn3kkgshbtf03a9ta8sko00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
